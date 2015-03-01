@@ -4,3 +4,6 @@
 [submodule ".\\atmega64M1"]
 	path = .\\atmega64M1
 	url = https://github.com/badomm/atmega64M1-base.git
+[submodule "atmega64M1-base"]
+	path = atmega64M1-base
+	url = https://github.com/badomm/atmega64M1-base.git
