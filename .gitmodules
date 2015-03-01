@@ -1,3 +1,6 @@
 [submodule ".\\atmega64M1_base"]
 	path = .\\atmega64M1_base
 	url = https://github.com/RevolveNTNU/atmega64M1-base.git
+[submodule ".\\atmega64M1"]
+	path = .\\atmega64M1
+	url = https://github.com/badomm/atmega64M1-base.git
