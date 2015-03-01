@@ -1,0 +1,3 @@
+[submodule ".\\atmega64M1_base"]
+	path = .\\atmega64M1_base
+	url = https://github.com/RevolveNTNU/atmega64M1-base.git
